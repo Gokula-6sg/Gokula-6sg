@@ -10,7 +10,7 @@
     🐾 Masala Dosa & Coffee ☕🐻‍❄️
 </pre>
 <br>
-<img src="[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif](https://tenor.com/view/woof-gif-10042677438114913540)" height="40" />
+<img src="https://tenor.com/view/woof-gif-10042677438114913540" height="40" />
 <br><br>
     
 <!-- [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis) -->
