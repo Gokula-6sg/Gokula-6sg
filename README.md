@@ -15,7 +15,7 @@
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,c,js,python,ts,nodejs,springboot,nestjs,git,github,linux,docker,postman,webstorm,kubernetes,sql,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,js,python,ts,nodejs,spring,nestjs,git,github,linux,docker,postman,webstorm,kubernetes,sql,graphql)](https://skillicons.dev)
 
 
 
