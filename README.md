@@ -4,15 +4,15 @@
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
-
-- :credit_card: My full name is **Gokulakrishnaa** <img src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif" width="400" align="right"/>
-- :school: I'm currently Engineering student from **Rajalakshmi Institute of Technology - Chennai**
-- :books: My major is **Software Engineering**
-- :earth_asia: I'm living now in **Chennai**
-- :sweat_smile: I'm a newbie in coding :penguin:
-- :monocle_face: I'm interested in coding, sleeping, and watching film
-- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
-
+<br><br>
+<pre>
+    💼 BSC @ UFMG • Back-end dev • Platform Engineer
+    💻 System programming languages • DevOps 
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code • Art
+    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+</pre>
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,c,js,python,ts,nodejs,spring,nestjs,git,github,linux,docker,postman,webstorm,kubernetes,sql,graphql)](https://skillicons.dev)
